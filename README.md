@@ -8,7 +8,7 @@
 - Experience in AWS, GCP and Azure.
 - My Creation - Ongoing Production Websites:
 - http://jrmodularenterprises.in/
-- http://ezhilelit.com/
+- http://ezhilelit.in/
 - Using ReactJs
 <!---
 Muruvazhakan/Muruvazhakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
