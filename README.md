@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Heroku...
 - Web and Mobile App Developer
 - 📫 How to reach me @7338979499...
-- Microsoft Azure Certified.
+- AWS and Microsoft Azure Certified.
 - Experience in AWS, GCP and Azure.
 - My Creation - Ongoing Production Websites:
 - http://jrmodularenterprises.in/
