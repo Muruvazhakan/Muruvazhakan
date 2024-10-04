@@ -12,7 +12,6 @@
 - http://ezhilelit.in/
 - Using ReactJs
 - Currently working on https://billedge.netlify.app/
-- 
 <!---
 Muruvazhakan/Muruvazhakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
