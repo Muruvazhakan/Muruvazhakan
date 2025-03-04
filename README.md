@@ -8,7 +8,6 @@
 - AWS and Microsoft Azure Certified.
 - Experience in AWS, GCP and Azure cloud technology.
 - My Creation - Developed Production Websites: 
-- http://jrmodularenterprises.in/
 - http://ezhilelit.in/
 - Using ReactJs
 - Currently working on https://billedge.netlify.app/
